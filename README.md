@@ -10,7 +10,7 @@
 <img align="right" src="https://media.giphy.com/media/TdNBNvKYuOGxWuUeDm/giphy.gif">
 
 ```python
-#!/usr/bin/python
+#!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
 class SoftwareEngineer:
