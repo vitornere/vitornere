@@ -7,7 +7,8 @@
 </p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
-<img align="right" src="https://media.giphy.com/media/TdNBNvKYuOGxWuUeDm/giphy.gif">
+
+<img src="https://media.giphy.com/media/TdNBNvKYuOGxWuUeDm/giphy.gif">
 
 ```python
 #!/usr/bin/python3
