@@ -64,15 +64,15 @@ if __name__ == '__main__':
 ---
 # &#x1f4c8; GitHub Stats
 
-[![Profile Stats](https://github-readme-stats.vercel.app/api?username=vitornere&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Profile Stats](https://github-readme-stats.vercel.app/api?username=vitornere&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight?)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vitornere&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=vitornere&theme=tokyonight&column=7?)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🧑‍💻  This week, I spent my time on:
 
-[![vitornere's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vitornere&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116)](https://github.com/anuraghazra/github-readme-stats)
+[![vitornere's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vitornere&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116?)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **vitornere/vitornere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
