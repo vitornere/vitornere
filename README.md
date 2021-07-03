@@ -1,5 +1,5 @@
 <h2 align="center">Hey, nice to meet you! I'm Vitor Nere</h2>
-<p align="center"><em><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Software Engineer at <a href="https://usezapay.com.br/">Zapay Pagamentos</a> <b>&</b> Technology Consultant at <a href="https://capacitampe.com.br/">CapacitaMPE</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
+<p align="center"><em><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> CTO at <a href="https://www.linkedin.com/company/pubnic/">Pubnic</a> <b>&</b> Software Engineer at <a href="https://usezapay.com.br/">Zapay Pagamentos</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/vitor-nere/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
