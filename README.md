@@ -1,5 +1,5 @@
 <h2 align="center">Hey, nice to meet you! I'm Vitor Nere</h2>
-<p align="center"><em><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> CTO at <a href="https://www.linkedin.com/company/pubnic/">Pubnic</a> <b>&</b> Software Engineer at <a href="https://usezapay.com.br/">Zapay Pagamentos</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
+<p align="center"><em><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> CTO at <a href="https://www.linkedin.com/company/pubnic/">Pubnic</a> <b>&</b> Tech Lead at <a href="https://usezapay.com.br/">Zapay Pagamentos</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/vitor-nere/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -18,14 +18,14 @@ class SoftwareEngineer:
     def __init__(self, data, indent=0):
         self.data = data
         self.indent = indent
-    
+
     def __print(self, value, indent):
         return '\t' * indent + str(value) + '\n'
 
     def __beatiful_print(self, data, indent):
         to_str = ''
         for key, value in data.items():
-            to_str += self.__print(key, indent)
+            to_str += self.__print('\033[1m' + key.upper() + '\033[0m', indent)
             if isinstance(value, dict):
                 to_str += self.__beatiful_print(value, indent+1)
             elif isinstance(value, list):
@@ -42,18 +42,17 @@ class SoftwareEngineer:
 if __name__ == '__main__':
     data = dict(
         name='Vitor Nere',
-        role='Software Engineer',
+        role='CTO & Tech Lead',
         location=(-15.6697181, -47.8526106),
-        code=['Python', 'Javascript', 'Typescript', 'Java', 'Kotlin'],
+        code=['Python', 'Javascript', 'Typescript'],
         technologies=dict(
-            backEnd=['Django', 'Flask', 'FastAPI',
-                     'Spring Boot Framework', 'Express', 'Nest.js'],
-            frontEnd=['React', 'Next.js', 'Angular'],
-            mobileApp=['React Native', 'Ionic'],
+            backEnd=['Django', 'Flask', 'FastAPI'],
+            frontEnd=['React', 'Next.js'],
+            mobileApp=['React Native'],
             desktopApp=['Electron', 'PWA'],
             devOps=['AWS', 'Docker', 'Serverless', 'Hasura'],
             databases=['PostgresSQL', 'DynamoDB'],
-            misc=['Firebase', 'Unit Tests', 'GraphQL', 'Redux']
+            misc=['Firebase', 'Unit Tests', 'GraphQL', 'Redux', 'Amplify Framework']
         )
     )
     vitor_nere = SoftwareEngineer(data)
