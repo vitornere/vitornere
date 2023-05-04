@@ -1,9 +1,8 @@
 <h2 align="center">Hey, nice to meet you! I'm Vitor Nere</h2>
-<p align="center"><em><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> CTO at <a href="https://www.linkedin.com/company/pubnic/">Pubnic</a> <b>&</b> Tech Lead at <a href="https://usezapay.com.br/">Zapay Pagamentos</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
+<p align="center"><em><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Solutions Architect at <a href="https://usezapay.com.br/">Zapay Pagamentos</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/vitor-nere/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/nere.swe/"><img src="https://img.shields.io/badge/<nere.swe>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
@@ -68,22 +67,3 @@ if __name__ == '__main__':
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=vitornere&theme=tokyonight&column=7?)](https://github.com/ryo-ma/github-profile-trophy)
-
-### 🧑‍💻  This week, I spent my time on:
-
-[![vitornere's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vitornere&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116?)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**vitornere/vitornere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
