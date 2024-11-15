@@ -1,5 +1,5 @@
 <h2 align="center">Hey, nice to meet you! I'm Vitor Nere</h2>
-<p align="center"><em><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Solutions Architect at <a href="https://usezapay.com.br/">Zapay Pagamentos</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
+<p align="center"><em><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Principal Software Engineer at <a href="https://usezapay.com.br/" target="_blank">Zentake</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/vitor-nere/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -41,8 +41,8 @@ class SoftwareEngineer:
 if __name__ == '__main__':
     data = dict(
         name='Vitor Nere',
-        role='CTO & Tech Lead',
-        location=(-15.6697181, -47.8526106),
+        role='Principal Software Engineer',
+        location=(-15.786515996164606, -47.88718512527681),
         code=['Python', 'Javascript', 'Typescript'],
         technologies=dict(
             backEnd=['Django', 'Flask', 'FastAPI'],
